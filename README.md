@@ -1,13 +1,8 @@
-# README
+# FLIXTER 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a clone of udemy that I made! It makes use of the popular [STRIPE API](https://github.com/stripe) in order to take payments. Payments are not live, this is just a proof of concept/understanding. I will go over how to set all that up in this README. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
+* Ruby version for this project is: 2.5.3
 
 * Configuration
 
