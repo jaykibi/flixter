@@ -1,6 +1,7 @@
 # FLIXTER 
 
-live version: http://flixter-kibi.herokuapp.com/
+* Live (hosted with Heroku) version: http://flixter-kibi.herokuapp.com/
+* Video demo: https://youtu.be/EL7wfU7IiPE
 
 This is just a clone of udemy that I made! It makes use of the popular [STRIPE API](https://github.com/stripe) in order to take payments. Payments are not live, this is just a proof of concept/understanding. 
 
