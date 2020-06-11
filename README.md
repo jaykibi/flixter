@@ -14,4 +14,6 @@ A Vagrant environment with virtual box was used for development of this project.
 Once you have your environment set up and have a cloned the repo, run
 **rake db:setup** this will create and run the migrations for the database on your project. 
 
+
+### Screenshots:
 ![Homescreen](https://github.com/jaykibi/flixter/blob/master/app/assets/images/github_images/homescreen.JPG)
