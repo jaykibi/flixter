@@ -16,4 +16,12 @@ Once you have your environment set up and have a cloned the repo, run
 
 
 ### Screenshots:
+
+#### Homepage
 ![Homescreen](https://github.com/jaykibi/flixter/blob/master/app/assets/images/github_images/homescreen.JPG)
+
+#### Courses Page
+![Courses](https://github.com/jaykibi/flixter/blob/master/app/assets/images/github_images/courses_screen.JPG)
+
+#### STRIPE MODAL
+![STRIPE API MODAL](https://github.com/jaykibi/flixter/blob/master/app/assets/images/github_images/stripe_pay_modal.JPG)
