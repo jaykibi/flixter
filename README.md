@@ -25,3 +25,6 @@ Once you have your environment set up and have a cloned the repo, run
 
 #### STRIPE MODAL
 ![STRIPE API MODAL](https://github.com/jaykibi/flixter/blob/master/app/assets/images/github_images/stripe_pay_modal.JPG)
+
+When testing payments with STRIPE, the default test VISA credit card number is: **4242 4242 4242 4242**.
+The expiration date is anytime after current date and any 3 digits can be used for the CCV number. 
